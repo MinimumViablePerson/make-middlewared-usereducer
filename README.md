@@ -7,7 +7,7 @@ Create a version of useReducer with an indefinite number of  middleware function
 ## How to install
 
 ```bash
-npm i @mvps@make-middlewared-usereducer
+npm i @mvps/make-middlewared-usereducer
 ```
 
 ## How to use
